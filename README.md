@@ -1,2 +1,2 @@
 # MNIST-Pytorch
-Neural Network implementatin to classify handwritten digits. 
+Neural Network implementation to classify handwritten digits. 
